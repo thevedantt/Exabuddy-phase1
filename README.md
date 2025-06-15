@@ -126,7 +126,7 @@ machine learning, training data, supervised learning, test set
 
 ## ✍️ Author & License
 
-- Developed by: [Your Name]
+- Developed by: VEDANT TALEKAR
 - License: MIT
 
 Feel free to modify and adapt for academic or personal use.
